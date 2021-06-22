@@ -10,28 +10,29 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Wilson Mucheke</span></h4>
+                <h4>I am <span>Lorem Ipsum</span></h4>
                 <p className="paragraph">
-                    I am a curious juniour developer who is passionate in learning new things. I have a good foundation 
-                    which makes it easier for me to adapt and learn new technologies quickly. 
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
+                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
                     
                 </p>
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name</p>
                         <p>Age</p>
-                        <p>Nickname </p>
+                        <p>Nationality </p>
                         <p>Languages </p>
                         <p>Location</p>
-                        <p>Services</p>
+                        <p>Service</p>
                     </div>
                     <div className="info">
-                        <p>: Wilson Mucheke</p>
-                        <p>: 21</p>
-                        <p>: MacLinz </p>
-                        <p>: English, Spanish(Basics), Shona </p>
-                        <p>: Brighton, United Kingdom</p>
-                        <p>: Freelance, Office Work </p>
+                        <p>: Lorem Ipsum</p>
+                        <p>: 36</p>
+                        <p>: Spainsh </p>
+                        <p>: Spanish, French, English </p>
+                        <p>: London, United Kingdom</p>
+                        <p>: Freelance</p>
                     </div>
                 </div>
                 <PrimaryButton title={'Download Cv'} />

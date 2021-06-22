@@ -15,26 +15,26 @@ function Resume() {
             <Title title={'Resume'} span={'resume'} />
             <InnerLayout>
                 <div className="small-title">
-                    <SmallTitle icon={briefcase} title={'Work Experience'} />
+                    <SmallTitle icon={briefcase} title={'Working Experience'} />
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
-                        year={'2016 - 2018'} 
-                        title={'Agency Work'}
-                        subTitle={'Secondsite'}
-                        text={'I worked in retail, hospitality, catering and warehouses for this agency. This gave me so much insight in interacting with customers and work in a team of people with different backgrounds.'} 
+                        year={'2015 - 2020'} 
+                        title={'Computer Science Teacher'}
+                        subTitle={'Sussex University'}
+                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
                     <ResumeItem 
-                        year={'2018 - 2020'} 
-                        title={'Care Assistant'}
-                        subTitle={'Four Seasons'}
-                        text={'I gained a lot of experience in understanding people better while I was working at this job.'} 
+                        year={'2015 - Present'} 
+                        title={'Full Stack Developer'}
+                        subTitle={'Microsoft Studios'}
+                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
                     <ResumeItem 
-                        year={'2020 - 2021'} 
-                        title={'Support Worker'}
-                        subTitle={'Glenholme Healthcare'}
-                        text={'This was my last job in health care and It had been quite an adventure. I have learned so many lessons such as time management, communication skills, leaderships skills and being a team player. I am now ready to work in technology.'} 
+                        year={'2010 - 2017'} 
+                        title={'User Interface Designer'}
+                        subTitle={'Google Inc'}
+                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -42,22 +42,22 @@ function Resume() {
                 </div>
                 <div className="resume-content ">
                     <ResumeItem 
-                        year={'2016 - 2017'} 
-                        title={'GCSE\'S'}
-                        subTitle={'Cheny School'}
-                        text={'I went to study computing at City of Oxford College after receiving my GCSE\S.'} 
-                    />
-                    <ResumeItem 
-                        year={'2017 - 2019'} 
-                        title={'Computing  Level 3 EXT Diploma'}
-                        subTitle={'City of Oxford College'}
-                        text={'I received my computing extended dimploma in 2019 and I got an offer to study Computer Science at Brighton University. '} 
-                    />
-                    <ResumeItem 
-                        year={'2019 - Present'} 
+                        year={'201 - 2022'} 
                         title={'Computer Science Degree'}
-                        subTitle={'University of Brighton'}
-                        text={'I am still currently studing here and going into my final year this September.'} 
+                        subTitle={'Sussex University'}
+                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                    />
+                    <ResumeItem 
+                        year={'2015 - 2017'} 
+                        title={'A - Levels'}
+                        subTitle={'Church Hill High'}
+                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                    />
+                    <ResumeItem 
+                        year={'2015 - 2017'} 
+                        title={'High School Graduation'}
+                        subTitle={'ABC School'}
+                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
                 </div>
             </InnerLayout>
