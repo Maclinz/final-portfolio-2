@@ -13,7 +13,9 @@ function AboutPage() {
                 <Title title={'About Me'} span={'About Me'} />
                 <ImageSection />
                 <ServicesSection />
-                <ReviewsSection />
+                {/*Review Sectio to be activated after I get revews*/}
+                {/*<ReviewsSection />*/}
+                
             </AboutStyled >
         </MainLayout>
     )

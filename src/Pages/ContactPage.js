@@ -24,19 +24,19 @@ function ContactPage() {
                     <form  className="form">
                         <div className="form-field">
                             <label htmlFor="name"  >Enter your name*</label>
-                            <input type="text" id="name" />
+                            <input disabled type="text" id="name" />
                         </div>
                         <div className="form-field">
                             <label htmlFor="email"  >Enter your email*</label>
-                            <input type="email" id="email" />
+                            <input disabled type="email" id="email" />
                         </div>
                         <div className="form-field">
                             <label htmlFor="subject"  >Enter your subject</label>
-                            <input type="text" id="subject" />
+                            <input disabled type="text" id="subject" />
                         </div>
                         <div className="form-field">
                             <label htmlFor="text-area">Enter your Message*</label>
-                            <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
+                            <textarea  disabled name="textarea" id="textarea" cols="30" rows="10"></textarea>
                         </div>
                         <div className="form-field f-button">
                             <PrimaryButton title={'Send Email'} />
@@ -44,9 +44,9 @@ function ContactPage() {
                     </form>
                 </div>
                 <div className="right-content">
-                    <ContactItem title={'Phone'} icon={phone} cont1={'+66-789675637'} cont2={'07663520283'} />
-                    <ContactItem title={'Email'} icon={email} cont1={'loremipsum@gmail.com'} cont2={'info.lorem.ipsum@gmail.com'} />
-                    <ContactItem title={'Address'} icon={location} cont1={'27 Aldrich Road, London, England'} cont2={'United Kingdom'} />
+                    <ContactItem title={'Phone'} icon={phone} cont1={'+44 7555110517'} cont2={'07555110517'} />
+                    <ContactItem title={'Email'} icon={email} cont1={'tafadzwamucheke@gmail.com'} cont2={'maclinzuniversal@gmail.com'} />
+                    <ContactItem title={'Address'} icon={location} cont1={'BN1 4JU , Brighton, England'} cont2={'United Kingdom'} />
                     
                 </div>
             </InnerLayout>

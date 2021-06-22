@@ -89,7 +89,9 @@ body::-webkit-scrollbar-track{
     background-color: #383838;
 }
 
-
+textarea{
+    max-width: 100%;
+}
 a{
     font-family: inherit;
     color: inherit;
