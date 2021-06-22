@@ -6,43 +6,39 @@ import blog4 from  '../img/blogs/blog4.svg';
 const blogs = [
     {
         id: 1,
-        title: 'Web Design Done Well: Making Use Of Audio',
+        title: 'How To Work from Home',
         date: '01',
         month: 'April',
-        image: blog1,
-        link: 'https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/'
+        image: blog1
     },
     {
         id: 2,
-        title: 'A Complete Guide To Accessibility Tooling',
+        title: 'How To Use SEO Efficiently',
         date: '01',
         month: 'April',
-        image: blog2,
-        link: 'https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/'
+        image: blog2
     },
     {
         id: 3,
-        title: 'What Are SEO Best Practices?',
+        title: 'How to choose a programming Language',
         date: '01',
         month: 'April',
         image: blog3,
-        link: 'https://backlinko.com/hub/seo/best-practices'
+        link: 'https://www.google.co.uk/'
     },
     {
         id: 4,
-        title: 'Guide To Building Scalable Web Scrapers With Scrapy',
+        title: 'How To Tse SEO Efficiently',
         date: '01',
         month: 'April',
-        image: blog4,
-        link: 'https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/'
+        image: blog4
     },
     {
         id: 5,
-        title: 'How to Build a Neural Network & Make Predictions in Python',
+        title: 'How To Tse SEO Efficiently',
         date: '01',
         month: 'April',
-        image: blog4,
-        link: 'https://realpython.com/python-ai-neural-network/'
+        image: blog4
     }
 ]
 
