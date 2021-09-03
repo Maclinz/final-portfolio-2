@@ -13,12 +13,17 @@ function HomePage() {
       </div>
       <div className="typography">
         <h1>
-          Hi, I'm <span>Eteyen Ikpeme </span>
+          <span> Welcome Mortal </span>
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nihil
-          voluptates ea dolore vel repellat? Quia tenetur non quam
-          exercitationem. Lorem ipsum dolor sit amet.
+          My name is Eteyen Ikpeme. Software engineer with a 4 year background
+          in medical device engineering. I am passionate about programming
+          having switched careers and now specialize in computer science,
+          javascript web development, NERP stack (Node Express, React, Postgres)
+          technologies and more. I enjoy working with hardworking and passionate
+          individuals, like myself, who have a deep appreciation for improving
+          the efficiency and availability of innovative systems, processes
+          and/or services.
         </p>
         <div className="icons">
           <a
@@ -30,7 +35,10 @@ function HomePage() {
           <a href="https://github.com/eikpeme/" className="icon i-github">
             <GithubIcon />
           </a>
-          <a href="https://github.com/eikpeme/" className="icon i-linkedIn">
+          <a
+            href="https://www.linkedin.com/in/eikpeme"
+            className="icon i-linkedIn"
+          >
             <LinkedIn />
           </a>
         </div>

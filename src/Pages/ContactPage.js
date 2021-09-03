@@ -12,6 +12,9 @@ function ContactPage() {
     const phone = <PhoneIcon />
     const email = <EmailIcon />
     const location = <LocationOnIcon />
+
+    //state management using react hooks for form
+    
     return (
         <MainLayout>
             <Title title={'Contact'} span={'Contact'} />
@@ -44,9 +47,9 @@ function ContactPage() {
                     </form>
                 </div>
                 <div className="right-content">
-                    <ContactItem title={'Phone'} icon={phone} cont1={'+66-789675637'} cont2={'07663520283'} />
-                    <ContactItem title={'Email'} icon={email} cont1={'loremipsum@gmail.com'} cont2={'info.lorem.ipsum@gmail.com'} />
-                    <ContactItem title={'Address'} icon={location} cont1={'27 Aldrich Road, London, England'} cont2={'United Kingdom'} />
+                    <ContactItem title={'Phone'} icon={phone} cont1={'+1(832)-703-4030'} cont2={''} />
+                    <ContactItem title={'Email'} icon={email} cont1={'etty.ikpeme@gmail.com'} cont2={'eikpeme@umoch.edu'} />
+                    <ContactItem title={'Address'} icon={location} cont1={'North Broadway, Chicago Illinois'} cont2={'United States'} />
                     
                 </div>
             </InnerLayout>

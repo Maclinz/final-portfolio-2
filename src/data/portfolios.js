@@ -7,67 +7,40 @@ import img3 from '../img/portImages/maya-3.jpg';
 const portfolios = [
     {
         id: 1,
-        category: 'CSS',
-        image: css1,
+        category: 'React',
+        image: img3,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'Responsive Resume',
-        text: 'Created with only HTML and CSS.'
+        title: 'Grace Hopper',
+        text: 'E-commerce Website demonstrating full CRUD functionality'
     },
     {
         id: 2,
-        category: 'Python',
+        category: 'React',
         image: img3,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
         title: 'How To Animate In Maya',
-        text: 'Number one Animation Application'
-    },
-    {
-        id: 3,
-        category: 'Javascript',
-        image: img3,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'How To Animate In Maya',
-        text: 'Number one Animation Application'
+        text: 'Reat time weather application'
     },
     {
         id: 4,
-        category: 'Animation',
+        category: 'React Native',
         image: img2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'How To Use Blender',
-        text: 'Free Animation Software'
+        title: 'Park App',
+        text: 'Parking meets Air bnb. Park app is a community based parking applicaiton where users can provide parking and rent parking to other user '
     },
     {
         id: 5,
-        category: 'Animation',
+        category: 'React Native',
         image: img2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'How To Use Blender',
-        text: 'Free Animation Software'
+        title: 'Todoz',
+        text: 'Todoz is a note taking application demonstrating mobile CRUD functionality for users to do list.'
     },
-    {
-        id: 6,
-        category: 'React JS',
-        image: react1,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'Responsive Portfolio Website',
-        text: 'Created using different technologies such as Material UI, Styled-Components and more...'
-    },
-    {
-        id: 7,
-        category: 'CSS',
-        image: css2,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'Microsoft Website Clone',
-        text: 'Created using HTML and CSS'
-    }
 ]
 
 export default portfolios;

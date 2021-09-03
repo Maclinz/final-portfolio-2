@@ -21,13 +21,13 @@ function ServicesSection() {
                     <div className="mid-card">
                         <ServiceCard 
                             image={intelligence} 
-                            title={'Artificial Intelligence'} 
+                            title={'Web Application Development'} 
                             paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
                         />
                     </div>
                     <ServiceCard 
                         image={gamedev} 
-                        title={'Game Development'} 
+                        title={'Mobile Application Development'} 
                         paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
                     />
                 </div>
