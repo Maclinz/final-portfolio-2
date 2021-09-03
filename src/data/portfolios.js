@@ -11,7 +11,7 @@ const portfolios = [
         image: img3,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'Grace Hopper',
+        title: 'Irock',
         text: 'E-commerce Website demonstrating full CRUD functionality'
     },
     {
@@ -20,8 +20,8 @@ const portfolios = [
         image: img3,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'How To Animate In Maya',
-        text: 'Reat time weather application'
+        title: 'Weather App',
+        text: 'Real time weather application'
     },
     {
         id: 4,
@@ -38,7 +38,7 @@ const portfolios = [
         image: img2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'Todoz',
+        title: 'Todoz App',
         text: 'Todoz is a note taking application demonstrating mobile CRUD functionality for users to do list.'
     },
 ]
