@@ -14,7 +14,8 @@ const portfolios = [
     link1: "https://github.com/eikpeme/GraceShopper",
     link2: "https://grayce-shoppa.herokuapp.com/",
     title: "Grayce-Shoppa",
-    text: " E-commerce Website demonstrating CRUD functionality",
+    text:
+      " E-commerce Website demonstrating CRUD functionality. React|Node|Express|PostgresSQL",
   },
   {
     id: 2,
@@ -23,7 +24,8 @@ const portfolios = [
     link1: "https://github.com/eikpeme/2104-FSA-RM-WEB-FT-JPFP",
     link2: "https://ninja-academy.herokuapp.com/campuses",
     title: "Academy App",
-    text: "Student Campus directory demonstrating CRUD functionality",
+    text:
+      "Student Campus directory demonstrating CRUD functionality. React|Node|Express|PostgresSQL",
   },
   {
     id: 3,
@@ -33,17 +35,17 @@ const portfolios = [
     link2: "https://youtu.be/PPomOi4U0kk",
     title: "Park App",
     text:
-      "Parking meets Air bnb. Park app is a community based mobile parking applicaiton where users can provide parking and rent parking to other user ",
+      "Park app is a community based mobile parking applicaiton where users can provide parking and rent parking to other user. React-Native, Firebase, Google location API, Expo",
   },
   {
     id: 4,
-    category: "React Native",
+    category: "React",
     image: img4,
-    link1: "https://www.google.com",
+    link1: "https://github.com/eikpeme/PairExercise.TodoList.V2",
     link2: "https://www.google.com",
     title: "Todoz App",
     text:
-      "Todoz is a note taking application demonstrating mobile CRUD functionality for users to do list.",
+      "Todoz is a simple note taking application. React|Node|Express|PostgresSQL ",
   },
 ];
 
