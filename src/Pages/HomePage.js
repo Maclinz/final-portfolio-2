@@ -16,14 +16,7 @@ function HomePage() {
           <span> Welcome Mortal </span>
         </h1>
         <p>
-          My name is Eteyen Ikpeme. Software engineer with a 4 year background
-          in medical device engineering. I am passionate about programming
-          having switched careers and now specialize in computer science,
-          javascript web development, NERP stack (Node Express, React, Postgres)
-          technologies and more. I enjoy working with hardworking and passionate
-          individuals, like myself, who have a deep appreciation for improving
-          the efficiency and availability of innovative systems, processes
-          and/or services.
+        Thread Carefully
         </p>
         <div className="icons">
           <a
