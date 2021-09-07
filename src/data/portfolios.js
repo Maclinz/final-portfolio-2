@@ -42,7 +42,7 @@ const portfolios = [
     category: "React",
     image: img4,
     link1: "https://github.com/eikpeme/PairExercise.TodoList.V2",
-    link2: "https://www.google.com",
+    link2: "https://todoz-todoz.herokuapp.com/#/",
     title: "Todoz App",
     text:
       "Todoz is a simple note taking application. React|Node|Express|PostgresSQL ",
