@@ -15,7 +15,7 @@ const portfolios = [
     link2: "https://grayce-shoppa.herokuapp.com/",
     title: "Grayce-Shoppa",
     text:
-      " E-commerce Website demonstrating CRUD functionality. React|Node|Express|PostgresSQL",
+      " E-commerce Website demonstrating CRUD functionality. React | Node | Express | PostgresSQL",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const portfolios = [
     link2: "https://ninja-academy.herokuapp.com/campuses",
     title: "Academy App",
     text:
-      "Student Campus directory demonstrating CRUD functionality. React|Node|Express|PostgresSQL",
+      "Student Campus directory demonstrating CRUD functionality. React | Node | Express | PostgresSQL",
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ const portfolios = [
     link2: "https://youtu.be/PPomOi4U0kk",
     title: "Park App",
     text:
-      "Park app is a community based mobile parking applicaiton where users can provide parking and rent parking to other user. React-Native, Firebase, Google location API, Expo",
+      "Park app is a community based mobile parking applicaiton where users can provide parking and rent parking to other user. React-Native | Firebase | Google location API | Expo",
   },
   {
     id: 4,
