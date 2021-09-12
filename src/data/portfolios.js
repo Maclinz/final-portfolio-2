@@ -45,7 +45,7 @@ const portfolios = [
     link2: "https://todoz-todoz.herokuapp.com/#/",
     title: "Todoz App",
     text:
-      "Todoz is a simple note taking application. React|Node|Express|PostgresSQL ",
+      "Todoz is a simple note taking application. React | Node | Express | PostgresSQL",
   },
 ];
 

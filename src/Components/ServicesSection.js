@@ -17,7 +17,7 @@ function ServicesSection() {
             image={design}
             title={"Web Design"}
             paragraph={
-              "Encompassesing many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.a"
+              "Encompassesing many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design"
             }
           />
           <div className="mid-card">
