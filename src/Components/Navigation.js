@@ -1,13 +1,13 @@
 import React from "react";
 import styled from "styled-components";
 import { NavLink } from "react-router-dom";
-import avatar from "../img/avatar.jpg";
+import navAvatar from "../img/navAvatar.jpg";
 
 function Navigation() {
   return (
     <NavigationStyled>
-      <div className="avatar">
-        <img src={avatar} alt="" />
+      <div className="navAvatar">
+        <img src={navAvatar} alt="" />
       </div>
       <ul className="nav-items">
         <li className="nav-item">
@@ -58,7 +58,7 @@ const NavigationStyled = styled.nav`
   height: 100%;
   width: 100%;
   border-right: 1px solid var(--border-color);
-  .avatar {
+  .navAvatar {
     width: 100%;
     border-bottom: 1px solid var(--border-color);
     text-align: center;
