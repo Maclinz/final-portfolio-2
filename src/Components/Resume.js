@@ -19,7 +19,7 @@ function Resume() {
         </div>
         <div className="resume-content">
           <ResumeItem
-            year={"2021 - present"}
+            year={"2021 - 2021"}
             title={"Junior Developer (Part-time)"}
             subTitle={"Phantom Research ILC - Remote"}
             textList={[

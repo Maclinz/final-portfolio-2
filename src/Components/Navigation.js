@@ -30,11 +30,11 @@ function Navigation() {
             Portfolios
           </NavLink>
         </li>
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <NavLink to="/blogs" activeClassName="active-class" exact>
             Blogs
           </NavLink>
-        </li>
+        </li> */}
         <li className="nav-item">
           <NavLink to="/contact" activeClassName="active-class" exact>
             Contact

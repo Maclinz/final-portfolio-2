@@ -5,6 +5,7 @@ import img1 from "../img/portImages/maya-1.jpg";
 import img2 from "../img/portImages/maya-2.jpg";
 import img3 from "../img/portImages/maya-3.jpg";
 import img4 from "../img/portImages/maya-4.jpg";
+import img5 from "../img/portImages/maya-5.jpg";
 
 const portfolios = [
   {
@@ -46,6 +47,16 @@ const portfolios = [
     title: "Todoz App",
     text:
       "Todoz is a simple note taking application. React | Node | Express | PostgresSQL",
+  },
+  {
+    id: 5,
+    category: "React",
+    image: img5,
+    link1: "https://github.com/eikpeme/Dashboard",
+    link2: "https://artizans-app.herokuapp.com/admin/login",
+    title: "Artizan App",
+    text:
+      "Mobile Application with web dashboard interface that connects user to artizans who provide local goods and services. React (Next.js) | Node | Express | Mongoose | React Native",
   },
 ];
 
