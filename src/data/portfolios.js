@@ -56,7 +56,7 @@ const portfolios = [
     link2: "https://artizans-app.herokuapp.com/admin/login",
     title: "Artizan App",
     text:
-      "Mobile Application with web dashboard interface that connects user to artizans who provide local goods and services. React (Next.js) | Node | Express | Mongoose | React Native",
+      "Mobile Application with web dashboard interface that connects users to artizans whom provide local goods and services. React (Next.js) | Node | Express | Mongoose | React Native",
   },
 ];
 
