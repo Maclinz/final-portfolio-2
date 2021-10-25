@@ -19,13 +19,13 @@ function Resume() {
         </div>
         <div className="resume-content">
           <ResumeItem
-            year={"2021 - present"}
+            year={"AUG 2021 - present"}
             title={"Junior Developer (Apprenticeship)"}
             subTitle={"DevStack-Dev- Remote"}
-            textList={["● Collaborative freelance mobile app develepment"]}
+            textList={["● Collaborative freelance mobile app development"]}
           />
           <ResumeItem
-            year={"2021 - 2021"}
+            year={"MAR 2021 - AUG 2021"}
             title={"Junior Developer (Part-time)"}
             subTitle={"Phantom Research ILC - Remote"}
             textList={[
@@ -35,7 +35,7 @@ function Resume() {
             ]}
           />
           <ResumeItem
-            year={"2016 - 2021"}
+            year={"SEP 2016 - MAR 2021"}
             title={"Product Development Engineer"}
             subTitle={"Terumo Cardiovascular Group - Ann Arbor Michigan"}
             textList={[

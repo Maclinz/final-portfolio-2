@@ -44,7 +44,7 @@ function ImageSection() {
             <p>: US </p>
             <p>: English, Spanish </p>
             <p>: Chicago Illinois, US</p>
-            <p>: Freelance</p>
+            <p>: Full-time | Contract | Freelance </p>
           </div>
         </div>
         <PrimaryButton title={"Download Cv"} />
