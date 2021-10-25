@@ -50,7 +50,7 @@ function Resume() {
         </div>
         <div className="resume-content ">
           <ResumeItem
-            year={"2021 - 2021"}
+            year={"MAR 2021 - JUL 2021"}
             title={"Certificate - Software Engineering, Web Development"}
             subTitle={"Fullstack Academy - Chicago Illinois Immersive"}
             textList={[
@@ -58,7 +58,7 @@ function Resume() {
             ]}
           />
           <ResumeItem
-            year={"2012 - 2016"}
+            year={"SEP 2012 - MAY 2016"}
             title={"B.S Chemical Engineering "}
             subTitle={"University Of Michigan - Ann Arbor"}
             textList={[]}
