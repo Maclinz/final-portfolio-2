@@ -13,11 +13,9 @@ function HomePage() {
       </div>
       <div className="typography">
         <h1>
-          <span> Welcome Mortal </span>
+          <span> Welcome! </span>
         </h1>
-        <p>
-        Thread Carefully
-        </p>
+        <p>View my gitHub and social media via the links below!</p>
         <div className="icons">
           <a
             href="https://www.facebook.com/eteyen.ikpeme"

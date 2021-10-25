@@ -19,13 +19,19 @@ function Resume() {
         </div>
         <div className="resume-content">
           <ResumeItem
+            year={"2021 - present"}
+            title={"Junior Developer (Apprenticeship)"}
+            subTitle={"DevStack-Dev- Remote"}
+            textList={["● Collaborative freelance mobile app develepment"]}
+          />
+          <ResumeItem
             year={"2021 - 2021"}
             title={"Junior Developer (Part-time)"}
             subTitle={"Phantom Research ILC - Remote"}
             textList={[
-              "● Attend weekly standup meetings to provide input and feedback on project progress.",
-              "● Perform code reviews and assist with code design and implementation (MATLAB).",
-              "● Provide technical support for software requirements and planning for Terumo Cardiovascular product development.",
+              "● Attended weekly standup meetings to provide input and feedback on project progress.",
+              "● Performed code reviews and assist with code design and implementation (MATLAB).",
+              "● Provided technical support for software requirements and planning for Terumo Cardiovascular product development.",
             ]}
           />
           <ResumeItem
