@@ -14,14 +14,20 @@ function ImageSection() {
           <span>Etty</span>
         </h1>
         <p className="paragraph">
-          My name is Eteyen Ikpeme. Software engineer with a 4 year background
-          in medical device engineering. I am passionate about programming
-          having switched careers and now specialize in computer science,
-          javascript web development, NERP stack (Node Express, React, Postgres)
-          technologies and more. I enjoy working with hardworking and passionate
-          individuals, like myself, who have a deep appreciation for improving
-          the efficiency and availability of innovative systems, processes
-          and/or services.
+          My name is Eteyen Ikpeme. I am software engineer with a background in
+          medical device engineering who is detail-oriented and motivated with a
+          passion for learning and building high-quality, clean and efficient
+          code. With the determination to improve, I've expanded my coding
+          skills via a 500+ hour coding Bootcamp focused on the Javascript web
+          development NERP (Node, Express, React, PostgresSql) stack and more
+          technologies. During the course, I took full advantage of
+          indispensable opportunities and learned how to work both autonomously
+          and in a collaborative setting, understanding the importance of
+          detailed project planning and how to utilize the individual strengths
+          of team members to meet project deadlines and goals. Eager to tackle
+          more complex challenges and coding solutions for real-world problems,
+          I keep myself busy on multiple projects, personal and professional,
+          constantly learning and improving my skills as a software developer.
         </p>
         <div className="about-info">
           <div className="info-title">
