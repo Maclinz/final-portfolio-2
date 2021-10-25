@@ -1,5 +1,5 @@
 import img1 from "../img/portImages/maya-1.jpg";
-import img2 from "../img/portImages/maya-2.jpg";
+//import img2 from "../img/portImages/maya-2.jpg";
 import img3 from "../img/portImages/maya-3.jpg";
 import img4 from "../img/portImages/maya-4.jpg";
 import img5 from "../img/portImages/maya-5.jpg";
