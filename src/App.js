@@ -17,7 +17,7 @@ import { IconButton } from "@material-ui/core";
 
 
 function App() {
-  const [theme, setTheme] = useState('dark-theme');
+  const [theme, setTheme] = useState('light-theme');
   const [checked, setChecked] = useState(false);
   const [navToggle, setNavToggle] = useState(false);
 
